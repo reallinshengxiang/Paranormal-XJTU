@@ -1,0 +1,29 @@
+# Introduction to 2D Game Development
+
+![image](https://github.com/kiyotakali/Paranormal-XJTU/blob/main/add.png)
+## COMP561405
+### Brief Intro
+- This course is taught by Prof [Kelvin Sung](https://faculty.washington.edu/ksung/), mainly based on game engine [Unity](https://unity.com/cn).
+- Repository Paranormal-XJTU is the final project of Team-Ferry ,including source code and executable game file for downloading.
+- You can learn about the details of this course on https://myuwbclasses.github.io/XJTU-IntroGameDev/.
+
+### How to play
+- Please go to the 'release' section of the repository, where we put the executable game files.
+- After downloading the project, go to the folder and click "my project" to start the game!
+- Here is a short guide about how to play our game.
+
+![image](https://github.com/kiyotakali/Paranormal-XJTU/blob/main/%E9%94%AE%E4%BD%8D%E6%8C%87%E5%BC%95.png)
+
+#### Some noteworthy issues
+- Please do not press space too quickly when entering the plot in the game or you may get stuck!
+- If you press the R button and it doesn't respond, press it a few more times.
+
+  
+### Our Team
+- 💞 Team Ferry, consisting of 6 undergraduates in Xjtu finished the whole project. 
+- 💪 Take an exciting trip around the campus of Xi'an Jiaotong University while trying to solve a series of ghostly mysteries!
+
+### Valuable Photos during the course
+- 👨‍🏫 A photo of Professor.Sung and our team members.
+  
+![image](https://github.com/kiyotakali/Paranormal-XJTU/blob/main/photo.png)
